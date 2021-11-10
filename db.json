@@ -1,32 +1,34 @@
 {
-  "posts": [
-    {
-      "id": 7,
-      "nom": "soccer",
-      "prenom": "fream",
-      "username": "forel",
-      "tel": "55892254",
-      "salaire": "50,000"
-    },
-    {
-      "nom": "toto",
-      "prenom": "toto",
-      "username": "tototo",
-      "tel": "66555",
-      "salaire": "2",
-      "id": 9
-    },
-    {
-      "nom": "tonton",
-      "prenom": "tata",
-      "username": "pipi",
-      "tel": "4662389",
-      "salaire": "545296",
-      "id": 11
+    "posts": [{
+            "id": 7,
+            "nom": "soccer",
+            "prenom": "fream",
+            "username": "forel",
+            "tel": "55892254",
+            "salaire": "50,000"
+        },
+        {
+            "nom": "toto",
+            "prenom": "toto",
+            "username": "tototo",
+            "tel": "66555",
+            "salaire": "2",
+            "id": 9
+        },
+        {
+            "nom": "tonton",
+            "prenom": "tata",
+            "username": "pipi",
+            "tel": "4662389",
+            "salaire": "545296",
+            "id": 11
+        }
+    ],
+
+    "signup": [],
+    "login": [],
+    "comments": [],
+    "profile": {
+        "name": "typicode"
     }
-  ],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
-  }
 }

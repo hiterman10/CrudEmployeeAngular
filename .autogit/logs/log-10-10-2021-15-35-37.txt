@@ -1,0 +1,26 @@
+-------------------- Auto-Git Log --------------------
+		Wed Nov 10 2021 15:35:37 GMT+0100 (heure normale d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+* src/app/app-routing.module.ts
+* src/app/app.component.html
+* src/app/app.module.ts
+
+
+Created files:
+* .autogit/logs/log-10-10-2021-15-5-9.txt
+* src/app/login/login.component.css
+* src/app/login/login.component.html
+* src/app/login/login.component.spec.ts
+* src/app/login/login.component.ts
+* src/app/signup/signup.component.css
+* src/app/signup/signup.component.html
+* src/app/signup/signup.component.spec.ts
+* src/app/signup/signup.component.ts
+
+
+Deleted files:
+
+
+Renamed files:

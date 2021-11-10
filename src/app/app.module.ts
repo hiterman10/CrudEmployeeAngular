@@ -9,9 +9,11 @@ import { NotFoundComponent } from './modules/general/not-found/not-found.compone
 import { AppRoutingModule } from './app-routing.module';
 import { from } from 'rxjs';
 import { EmployeeDashbordComponent } from './employee-dashbord/employee-dashbord.component';
+import { LoginComponent } from './login/login.component';
+import { SignupComponent } from './signup/signup.component';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, NotFoundComponent, EmployeeDashbordComponent],
+  declarations: [AppComponent, HomeComponent, NotFoundComponent, EmployeeDashbordComponent, LoginComponent, SignupComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
